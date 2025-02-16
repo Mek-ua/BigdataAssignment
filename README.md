@@ -1,8 +1,8 @@
-Student Name: [Mekides Marie]
-Class: [Adgrat ]
-Department: [Software Engineering ]
-Course: Fundamentals of Big Data Analytics and BI
-University: Debre Berhan University
+# Student Name: [Mekides Marie]
+# Class: [Adgrat ]
+# Department: [Software Engineering ]
+# Course: Fundamentals of Big Data Analytics and BI
+# University: Debre Berhan University
 End-to-End Data Pipeline for E-Commerce Dataset
 Project Overview
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline for an e-commerce dataset. The pipeline extracts data from a CSV file, cleans and transforms it, loads it into a PostgreSQL database, and generates basic visualizations in Python. Additionally, a Power BI dashboard is created for interactive analysis.
